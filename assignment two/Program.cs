@@ -104,8 +104,15 @@ namespace assignment_two
             //    index++;
             //}
             #endregion
-            #region Q14
+            #region Q14 Write a do-while loop that prints "Checking book..." exactly 3 times.
+            //int flag = 1;
+            //do {
 
+
+            //    Console.WriteLine("Checking book...");
+            //    flag++;
+            
+            //} while (flag <= 3);
             #endregion
             #region Q15
 
