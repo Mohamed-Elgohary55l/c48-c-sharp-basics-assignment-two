@@ -12,9 +12,13 @@
             #endregion
 
 
-            #region Q2
-
+            #region Q2 Declare two separate string variables, both set to the literal "Clean Code". Use ReferenceEquals() to check if they point to the same object in memory
+            //string str1 = "Clean Code";
+            //string str2 = "Clean Code";
+            //Console.WriteLine(str1.Equals(str2));
+            //Console.WriteLine(string.ReferenceEquals(str1, str2));
             #endregion
+
             #region Q3
 
             #endregion
