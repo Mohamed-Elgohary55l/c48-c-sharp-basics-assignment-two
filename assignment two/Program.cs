@@ -45,7 +45,9 @@ namespace assignment_two
             //Console.WriteLine($"Book: {title}, Pages: {pages}");
             #endregion
             #region Q7 
-            
+            //string title = "Clean Code";
+            //int pages = 464;
+            //Console.WriteLine("Book: {0}, Pages: {1}", title, pages);
             #endregion
             #region Q8
 
