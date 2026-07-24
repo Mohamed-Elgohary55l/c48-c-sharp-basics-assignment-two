@@ -60,8 +60,13 @@ namespace assignment_two
             //    Console.WriteLine("Short Book");
             //}
             #endregion
-            #region Q9
-
+            #region Q9 Given int pages = 464; and bool isAvailable = true;, print "You can borrow this book" only if pages is greater than 300 and isAvailable is true. Use the && operator.
+            //int pages = 464;
+            //bool isAvailable = true;
+            //if (pages>300&& isAvailable)
+            //{
+            //    Console.WriteLine("You can borrow this book");
+            //}
             #endregion
             #region Q10
 
