@@ -1,4 +1,6 @@
-﻿namespace assignment_two
+﻿using System.Text;
+
+namespace assignment_two
 {
     internal class Program
     {
@@ -19,8 +21,11 @@
             //Console.WriteLine(string.ReferenceEquals(str1, str2));
             #endregion
 
-            #region Q3
-
+            #region Q3 Create a StringBuilder, Append() the text "Book List", then Append() " - Updated" onto the same object. Print the final result.
+           //StringBuilder s = new StringBuilder();
+           // s.Append("Book List");
+           // s.Append(" - Updated");
+           // Console.WriteLine($"the final result is: {s}");
             #endregion
             #region Q4
 
