@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
 
 namespace assignment_two
 {
@@ -33,8 +34,10 @@ namespace assignment_two
             //s.Replace("Book List", "Library");
             //Console.WriteLine(s);
             #endregion
-            #region Q5
-
+            #region Q5 Given string title = "Clean Code"; and int pages = 464;, build the sentence "Book: Clean Code, Pages: 464" using the + operator.
+            //string title = "Clean Code";
+            //int pages = 464;
+            //Console.WriteLine("Book :"+title+", Pages: "+pages);
             #endregion
             #region Q6
 
