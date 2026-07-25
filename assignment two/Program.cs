@@ -111,8 +111,21 @@ namespace assignment_two
 
             //    Console.WriteLine("Checking book...");
             //    flag++;
-            
+
             //} while (flag <= 3);
+            #endregion
+            #region Q15 Using the same books array, use a foreach loop to print every book title.
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //foreach (string i in books)
+            //{
+            //    Console.WriteLine(i);
+            //}
+            #endregion
+            #region Q15
+
+            #endregion
+            #region Q15
+
             #endregion
             #region Q15
 
